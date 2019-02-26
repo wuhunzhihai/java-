@@ -17,5 +17,6 @@ public class Demo01 {
         System.out.println(sum);
 		System.out.println("段世豪");
         System.out.println("张新宇");
+		System.out.println("芳芳");
     }
 }
