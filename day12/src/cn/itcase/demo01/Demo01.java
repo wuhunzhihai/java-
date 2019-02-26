@@ -15,5 +15,6 @@ public class Demo01 {
     public static void method (Sumable sumable){
         int sum = sumable.sum(10,20);
         System.out.println(sum);
+		System.out.println("段世豪");
     }
 }
