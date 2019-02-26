@@ -16,5 +16,6 @@ public class Demo01 {
         int sum = sumable.sum(10,20);
         System.out.println(sum);
 		System.out.println("段世豪");
+        System.out.println("张新宇");
     }
 }
