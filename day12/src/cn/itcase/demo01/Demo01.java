@@ -20,5 +20,6 @@ public class Demo01 {
 		System.out.println("芳芳");
 		System.out.println("芳芳2");
 		System.out.println("123");
+		System.out.println("1234");
     }
 }
